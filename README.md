@@ -3,7 +3,7 @@
 > Protecting Indians from phishing URLs and WhatsApp scams instantly.
 
 ## 🚀 Live Demo
-[Click here to try SafeCheck](your v0.dev link here)
+[Click here to try SafeCheck](https://v0-safe-check-web-app.vercel.app/)
 
 ## 💡 What is SafeCheck?
 SafeCheck is a cybersecurity web app that detects 
