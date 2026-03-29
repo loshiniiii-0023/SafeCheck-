@@ -24,4 +24,5 @@ UPI fraud, KYC scams and phishing attacks.
 - v0.dev
 
 ## 👥 Team SafeCheck
-4 CSE students passionate about cybersecurity
+CSE student passionate about cybersecurity
+Built with determination in 24 hours 💪
